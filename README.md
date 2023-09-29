@@ -1,2 +1,2 @@
 # helpme
-link: 
+site: https://cgrdeveloper.github.io/helpme/
